@@ -1,0 +1,5 @@
+{
+  "name": "AI Travel Planner",
+  "description": "A professional AI travel planner that creates detailed, day-by-day itineraries based on destination, dates, budget, and interests using real-time Google Search data.",
+  "requestFramePermissions": []
+}
